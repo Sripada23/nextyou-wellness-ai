@@ -1,3 +1,6 @@
+🎥 Demo Video: https://drive.google.com/file/d/11vPdgGNy0Uu9NjOP0JA8etD41AiH1alD/view?usp=sharing
+
+
 ## Architecture Overview
 This project was built as part of the NextYou Wellness RAG Micro-App Challenge to demonstrate the design of a safe, production-oriented RAG system for wellness applications.
 
